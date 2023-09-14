@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="./imgs/js.png" alt="Logo JavaScript" />
-  <span style="width: 4%; display: inline-block;"></span>
   <img src="./imgs/node.png" alt="Logo Node.js"/>
 </p>
 

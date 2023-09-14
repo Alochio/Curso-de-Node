@@ -1,5 +1,9 @@
 # Repositório do Curso de Node.js da Danki Code
 
+## Tecnologias utilizadas:
+
+![Logo JavaScript](./imgs/js.png)  ![Logo Node.js](./imgs/node.png)
+
 ## Tópicos Abordados
 
 - **O que é Node.js:** Uma introdução ao Node.js, uma plataforma JavaScript de código aberto que permite a execução de código JavaScript no servidor.
@@ -13,8 +17,3 @@
 - **Nodemon:** Uma introdução à ferramenta Nodemon, que ajuda a reiniciar automaticamente o servidor Node.js sempre que os arquivos são alterados.
 
 - **Entendendo o que são Módulos:** Explicação sobre módulos em Node.js e como usar módulos internos e externos em seus projetos.
-
-## Tecnologias usadas:
-
-![Logo JavaScript](https://www.w3schools.com/js/pic_js.png)
-![Logo Node.js](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png)

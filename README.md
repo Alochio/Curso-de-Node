@@ -2,7 +2,12 @@
 
 ## Tecnologias utilizadas:
 
-![Logo JavaScript](./imgs/js.png)  ![Logo Node.js](./imgs/node.png)
+<p align="center">
+  <img src="./imgs/js.png" alt="Logo JavaScript" />
+  <span style="width: 4%; display: inline-block;"></span>
+  <img src="./imgs/node.png" alt="Logo Node.js"/>
+</p>
+
 
 ## Tópicos Abordados
 

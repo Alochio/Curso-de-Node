@@ -7,7 +7,6 @@
   <img src="./imgs/node.png" alt="Logo Node.js"/>
 </p>
 
-
 ## Tópicos Abordados
 
 - **O que é Node.js:** Uma introdução ao Node.js, uma plataforma JavaScript de código aberto que permite a execução de código JavaScript no servidor.
